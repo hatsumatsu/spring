@@ -1,0 +1,8 @@
+{
+    "name": "@superstructure.net/spring",
+    "version": "0.0.1",
+    "main": "spring.js",
+    "description": "Vanilla JS spring-interpolated values.",
+    "license": "MIT",
+    "repository": "hatsumatsu/spring"
+}
