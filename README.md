@@ -7,7 +7,7 @@
 
 ```
 
-Vanilla JS spring-interpolated vaules.
+Vanilla JS spring-interpolated values.
 
 Heavily based on https://github.com/asbjornh/tiny-spring.
 
@@ -56,7 +56,7 @@ x.onRest((value) => {
 x.destroy();
 ```
 
-By default each spring runs its own animation loop via `requestAnimationFrame`. If you have a lot of springs you might achieve better performance by manually implementing a single animation frame instead of using `onUpdate()`.
+By default each spring runs its own animation loop via `requestAnimationFrame`. If you have a lot of springs you might achieve better performance by manually implementing a single animation loop instead of using `onUpdate()`.
 
 ```js
 // create spring
